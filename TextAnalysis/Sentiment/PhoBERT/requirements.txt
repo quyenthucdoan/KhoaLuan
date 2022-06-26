@@ -1,0 +1,6 @@
+vncorenlp==1.0.3
+transformers==4.20.1
+sacremoses==0.0.53
+fairseq==0.12.1
+fastbpe==0.1.0
+back 
